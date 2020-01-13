@@ -9,13 +9,13 @@ img {
 main{
   text-align: center;
   font-size: 22px;
-  font-style: italic;
   padding: 10px;
 }
 
 
 body{
  background-color:LightGray ;
+  font-family: "Roboto", Times, serif;
 }
 
 

@@ -1,11 +1,11 @@
 body{
  background-color:LightGray ;
+ font-family: "Roboto", Times, serif;
 }
 
 
 h2{
   text-align: center;
-  font-style: italic;
   font-size: 22px;
   padding: 10px;
 }

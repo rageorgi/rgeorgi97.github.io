@@ -2,6 +2,7 @@
 
  body{
  background-color:LightGray ;
+  font-family: "Roboto", Times, serif;
 }
 
 
@@ -18,21 +19,18 @@ main{
 .lists1{
   padding: 20px;
   font-size: 22px;
-  font-style: italic;
   text-align: center;
 }
 
 .lists2{
   padding: 20px;
   font-size: 22px;
-  font-style: italic;
   text-align: center;
 }
 
 .lists3{
   padding: 20px;
   font-size: 22px;
-  font-style: italic;
   text-align: center;
 }
 
